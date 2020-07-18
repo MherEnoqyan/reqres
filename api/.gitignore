@@ -1,0 +1,11 @@
+node_modules
+
+# local env files
+.env.development.local
+.env.*.local
+
+# Log files
+logs
+
+# Editor directories and files
+.idea
